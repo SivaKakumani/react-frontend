@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: react-frontend
-        image: myecommerce-ui:latest
+        image: sivakakumani636/react-frontend:latest
         ports:
         - containerPort: 3000
 
